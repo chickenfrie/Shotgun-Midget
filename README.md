@@ -1,0 +1,2 @@
+# Shotgun-Midget
+GitHub Pages
